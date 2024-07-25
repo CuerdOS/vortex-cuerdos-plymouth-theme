@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=Vortex cuerdos
+Description=cuerdos logo with spinning colored stripes
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/vortex-cuerdos
+ScriptFile=/usr/share/plymouth/themes/vortex-cuerdos/vortex-cuerdos.script
+UseFirmwareBackground=false
